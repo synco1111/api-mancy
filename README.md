@@ -1,4 +1,4 @@
-# api-mancy
+# api-mancy V2
 
 api-mancy is a Python Project which combine math, sacred geometry, gematria, magick and more of its kind, into a analysis tool kit
 
